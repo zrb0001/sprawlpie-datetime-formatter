@@ -2,8 +2,12 @@
   "name": "sprawlpie-datetime-formatter",
   "version": "0.0.1",
   "main": "ExtraDate.js",
-  "author": "Ruibin Zhang",
+  "author": "Ruibin Zhang <zrb0001@gmail.com>",
   "license": "GNU General Public License v3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zrb0001/sprawlpie-datetime-formatter"
+  },
   "scripts": {
     "test": "jest"
   },
