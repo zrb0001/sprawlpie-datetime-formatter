@@ -1,0 +1,21 @@
+{
+  "name": "sprawlpie-datetime-formatter",
+  "version": "0.0.1",
+  "main": "ExtraDate.js",
+  "author": "Ruibin Zhang",
+  "license": "GNU General Public License v3.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^21.2.1"
+  },
+  "dependencies": {}
+}
