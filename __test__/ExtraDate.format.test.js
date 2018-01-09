@@ -1,6 +1,6 @@
 "use strict";
 
-import ExtraDate, {MASKS} from '../ExtraDate';
+import ExtraDate, {MASKS} from '../dist/ExtraDate';
 
 let exDate = new ExtraDate(2017, 1, 1, 1, 1, 1);
 

@@ -1,6 +1,6 @@
 "use strict";
 
-import ExtraDate, {MASKS} from '../ExtraDate';
+import ExtraDate, {MASKS} from '../dist/ExtraDate';
 
 test('Test pass now', () => {
     let ts = Date.now();
