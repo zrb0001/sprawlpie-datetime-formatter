@@ -1,6 +1,6 @@
 {
   "name": "sprawlpie-datetime-formatter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/ExtraDate.js",
   "author": "Ruibin Zhang <zrb0001@gmail.com>",
   "license": "GNU General Public License v3.0",
